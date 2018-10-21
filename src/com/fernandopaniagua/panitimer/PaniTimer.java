@@ -36,7 +36,7 @@ public class PaniTimer extends javax.swing.JFrame {
         initComponents();
         setResizable(false);
         setTitle("PaniTimer v1.0 by F.Paniagua (2018)");
-        Image image = Toolkit.getDefaultToolkit().createImage(getClass().getResource("/images/clock.png"));
+        Image image = Toolkit.getDefaultToolkit().createImage(getClass().getResource("/images/icono.png"));
         setIconImage(image);
     }
 
